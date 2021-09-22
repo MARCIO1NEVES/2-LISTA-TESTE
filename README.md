@@ -12,4 +12,4 @@ https://futemax.gratis/assistir-hbo-family-ao-vivo-em-hd-online/
 #INTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEc2K7HU66OmxwsTucKZxkdCevt_v36opm1QREixJE9sKFer-x1xS4b9owh_g1Pd6IwYM&usqp=CAU" group-title="SÉRIES E FILMES" ,TELECINE ACTION
 https://futemax.gratis/assistir-telecine-action-ao-vivo-em-hd-online/
 
-#INTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-cult-252x252.png" group-title="SÉRIES E FILMES" ,TELECINE CULT
+
