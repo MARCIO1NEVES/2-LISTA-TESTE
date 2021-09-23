@@ -1,15 +1,7 @@
-#IXTM3U
+#EXTM3U
 
-#IXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="SÉRIES E FILMES" ,HBO HD
-https://futemax.gratis/assistir-hbo-ao-vivo-em-hd-online/
+#ENTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2019/06/Logo-Record-News-1.jpg"group-title="JORNALISMO", RECORD NEW
+https://r4---sn-oxunxg8pjvn-cxal.googlevideo.com/videoplayback?expire=1632378151&ei=x8hLYaevKNX9wgTYq5WQDQ&ip=2804%3A14c%3A5981%3A91bd%3Ab8b0%3Aefa9%3A5243%3Aa31c&id=eFiNz4ZlWA0.2&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=UT&mm=44%2C29&mn=sn-oxunxg8pjvn-cxal%2Csn-bg07dnsl&ms=lva%2Crdu&mv=m&mvi=4&pl=48&initcwndbps=586250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=LJpt6NPHlnNd1D8182K-TTUG&gir=yes&mt=1632356188&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=ILtfYnRwntZFyQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgBMuZzRkQXsuUmwagfPwlenNmyPaLhm5D3gkw_51WIpsCIDDTleUPN_E1-7RjUy_JtSKRjVwywkJOy5wXI1-hA7ET&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOo006BlizdraNky_0FTACdYjq4GkXJwpUjEI4niDSF6AiEAsJxFc1AtvxzaQdH3NVOFkb8LmLXmrQe8HEX77snk4ww%3D&alr=yes&cpn=3eptrXzXv_ePHxr2&cver=1.20210919.0.0&sq=2903295&rn=3&rbuf=1897
 
-#IXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6IbjIj-trEnUPQDDt40Cte0oo01frTr9_HqHEhoC6MuyuUgr-Ui05CKQjVOzDny95GK8&usqp=CAU" group-title="SÉRIES E FILMES" ,HBO2 HD
-https://futemax.gratis/assistir-hbo-2-ao-vivo-em-hd-online/
-
-#IXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="SÉRIES E FILMES" ,HBO PLUS
-https://futemax.gratis/assistir-hbo-family-ao-vivo-em-hd-online/
-
-#INTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEc2K7HU66OmxwsTucKZxkdCevt_v36opm1QREixJE9sKFer-x1xS4b9owh_g1Pd6IwYM&usqp=CAU" group-title="SÉRIES E FILMES" ,TELECINE ACTION
-https://futemax.gratis/assistir-telecine-action-ao-vivo-em-hd-online/
-
-
+#ENTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.47601!/image/image.jpg_gen/derivatives/landscape_653/image.jpg"group-title="JORNALISMO" ,RECORD
+https://futemax.gratis/assistir-record-ao-vivo-em-hd-online/
